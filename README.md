@@ -17,4 +17,4 @@ GPA 4.07/4.3
 
 2021
 - ICPC 130th, Korea Internet Preliminary
-- 대구를 빛내는 해커톤(Hackathon about Daegu), Kyungpook Univ
+- 대구를 빛내는 해커톤(Hackathon about Daegu) 우수상, Kyungpook Univ
