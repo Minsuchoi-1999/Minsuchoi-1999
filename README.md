@@ -10,11 +10,17 @@
 Kyungpook University, Korea
 
 
-GPA 4.07/4.3
-
-2020
-- SAM Scholarship, Kyungpook Univ
+GPA 4.01/4.3
 
 2021
+- SAM Scholarship, Kyungpook Univ
+
+2022
 - ICPC 130th, Korea Internet Preliminary
 - 대구를 빛내는 해커톤(Hackathon about Daegu) 우수상, Kyungpook Univ
+- SAM Scholarship, Kyungpook Univ(컴퓨터학부 2년 연속 수상 유일)
+
+2023
+- 국가우수장학금(이공계)
+- 인문사회 코딩기초(Python Programming) TA(2023.03 ~ )
+- San Jose State University Workshop(팀 3등 수료)
