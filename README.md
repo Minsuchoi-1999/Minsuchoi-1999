@@ -22,5 +22,5 @@ GPA 4.01/4.3
 
 2023
 - 국가우수장학금(이공계)
-- 인문사회 코딩기초(Python Programming) TA(2023.03 ~ )
+- 인문사회 코딩기초(Python Programming) TA(2023.03 ~ 2023.08)
 - San Jose State University Workshop(팀 3등 수료)
