@@ -19,8 +19,10 @@ GPA 4.01/4.3
 - ICPC 130th, Korea Internet Preliminary
 - 대구를 빛내는 해커톤(Hackathon about Daegu) 우수상, Kyungpook Univ
 - SAM Scholarship, Kyungpook Univ(컴퓨터학부 2년 연속 수상 유일)
+- 교내 알고리즘 대회 Goricon(장려상)
 
 2023
 - 국가우수장학금(이공계)
 - 인문사회 코딩기초(Python Programming) TA(2023.03 ~ 2023.08)
 - San Jose State University Workshop(팀 3등 수료)
+- 경북대학교 수치해석학 연구실 학부연구생(2023.08 ~ )
