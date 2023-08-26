@@ -1,4 +1,4 @@
-# Minsu_Choi
+# Minsu_Choi<br><br>
 
 
 # BOJ & Github Activity
@@ -10,7 +10,7 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=minsu_choi)](https://codeforces.com/profile/minsu_choi)
 
-# Skills
+# Skills<br><br>
 
 Language : 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -26,7 +26,7 @@ Utility :
 
 
 
-# CV
+# CV<br><br>
 
 
 Kyungpook University, Korea
