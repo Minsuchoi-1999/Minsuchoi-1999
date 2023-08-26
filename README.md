@@ -10,10 +10,10 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minsu_choi)](https://solved.ac/minsu_choi)
 
 [![CodeForces Profile](https://cf.leed.at?id=minsu_choi)](https://codeforces.com/profile/minsu_choi)
+<br><br>
+
 
 # Skills
-
-<br><br>
 
 Language : 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -27,11 +27,11 @@ Utility :
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
 <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
 
+<br><br>
 
 
 # CV
 
-<br><br>
 
 Kyungpook University, Korea
 
