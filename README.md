@@ -7,8 +7,22 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=minsu_choi)](https://codeforces.com/profile/minsu_choi)
 
-Kyungpook University, Korea
+# Skills
 
+Language : 
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++#00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/Python-#3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
+Utility : 
+<img src="https://img.shields.io/badge/Git-#F05032?style=for-the-badge&logo=Git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-#2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-#E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+<img src="https://img.shields.io/badge/Eclipse IDE-#2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">
+<img src="https://img.shields.io/badge/Sourcetree-#0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white">
+
+
+Kyungpook University, Korea
 
 GPA 4.01/4.3
 
@@ -24,5 +38,8 @@ GPA 4.01/4.3
 2023
 - 국가우수장학금(이공계)
 - 인문사회 코딩기초(Python Programming) TA(2023.03 ~ 2023.08)
+- 1학기 컴퓨터학부 외국인 유학생 Tutor(Linear Algebra, General ChemistryⅠ, C Programming)
 - San Jose State University Workshop(팀 3등 수료)
-- 경북대학교 수치해석학 연구실 학부연구생(2023.08 ~ )
+- 경북대학교 자연과학대학 수치해석학 연구실 학부연구생(2023.08 ~ )
+- 2학기 컴퓨터학부 외국인 유학생 Tutor
+- 2학기 수학과 Tutor
