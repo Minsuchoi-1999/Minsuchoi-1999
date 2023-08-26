@@ -1,5 +1,6 @@
-# Minsu_Choi<br><br>
+# Minsu_Choi
 
+<br><br>
 
 # BOJ & Github Activity
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinsuchoi-1999&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -10,7 +11,9 @@
 
 [![CodeForces Profile](https://cf.leed.at?id=minsu_choi)](https://codeforces.com/profile/minsu_choi)
 
-# Skills<br><br>
+# Skills
+
+<br><br>
 
 Language : 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
@@ -26,8 +29,9 @@ Utility :
 
 
 
-# CV<br><br>
+# CV
 
+<br><br>
 
 Kyungpook University, Korea
 
