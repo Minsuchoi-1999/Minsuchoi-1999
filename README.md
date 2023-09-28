@@ -53,7 +53,7 @@ Utility :
 - San Jose State University Workshop(팀 3등 수료)
 - 경북대학교 자연과학대학 수치해석학 연구실 학부연구생(2023.08 ~ )
 - 2학기 컴퓨터학부 외국인 유학생 Tutor
-
+- 자연과학 코딩기초(파이썬 프로그래밍) TA (2023.09 ~ )
 
 <br><br>
 
@@ -83,3 +83,4 @@ Total GPA: 4.01/4.3
 - San Jose State University Workshop (Team ranked 3rd, Completion)
 - Undergraduate Researcher in Numerical Analysis Lab, College of Natural Sciences, Kyungpook National University (Since Aug 2023)
 - Tutor for Foreign Exchange Students in the Department of Computer Science Department, 2nd Semester
+- Teaching Assistant for Natural Science Coding Fundamentals (Python Programming) (Sep 2023 ~ )
