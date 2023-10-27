@@ -40,20 +40,22 @@ Utility :
 - SAM 장학금, 경북대학교 컴퓨터학부
 
 2022:
-- ICPC 130th, Korea Internet Preliminary
+- ICPC 136th, Korea Internet Preliminary
 - 대구를 빛내는 해커톤(Hackathon about Daegu) 우수상, Kyungpook Univ
 - SAM 장학금, Kyungpook Univ(컴퓨터학부 2년 연속 수상 유일)
 - 교내 알고리즘 대회 Goricon 장려상
 - 동구교육발전장학회 장학금, 동구교육발전장학회
 
 2023:
+- ICPC 134th, Korea Internet Preliminary
 - 국가우수장학금(이공계), 한국장학재단
 - 인문사회 코딩기초(파이썬 프로그래밍) TA (2023.03 ~ 2023.08)
 - 1학기 컴퓨터학부 외국인 유학생 Tutor - 선형대수, 일반 화학, 프로그래밍 기초(C 프로그래밍)
 - San Jose State University Workshop(팀 3등 수료)
-- 경북대학교 자연과학대학 수치해석학 연구실 학부연구생(2023.08 ~ )
+- 경북대학교 자연과학대학 수치해석연구실 학부연구생(2023.08 ~ )
 - 2학기 컴퓨터학부 외국인 유학생 Tutor
 - 자연과학 코딩기초(파이썬 프로그래밍) TA (2023.09 ~ )
+
 
 <br><br>
 
