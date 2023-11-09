@@ -71,14 +71,14 @@ Total GPA: 4.01/4.3
 - SAM Scholarship, Computer Science Department, Kyungpook National University
 
 2022: 
-- ICPC 130th, Korea Internet Preliminary
+- ICPC 136th, Korea Internet Preliminary
 - Excellent Award, Hackathon about Daegu, Kyungpook National University
 - SAM Scholarship, Kyungpook National University (sole winner for 2 consecutive years in the Department of Computer Science)
 - Goricon Algorithm Contest Encouragement Award (Intra-university)
 - Donggu Educational Development Scholarship, Donggu Educational Development Scholarship Society
 
 2023:
-
+- ICPC 134th, Korea Internet Preliminary
 - National Excellence Scholarship (STEM), Korea Scholarship Foundation
 - Teaching Assistant for Introductory Coding (Python Programming) for Humanities and Social Sciences (Mar 2023 ~ Aug 2023)
 - Tutor for Foreign Exchange Students in the Department of Computer Science Department, 1st Semester - Linear Algebra, General Chemistry, Fundamentals of Programming (C Programming)
