@@ -34,7 +34,7 @@ Utility :
 
 경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 & 수학과 부전공
 
-총 학점: 4.01/4.3
+총 학점: 4.02/4.3
 
 2021:
 - SAM 장학금, 경북대학교 컴퓨터학부
@@ -50,13 +50,16 @@ Utility :
 - ICPC 134th, Korea Internet Preliminary
 - 국가우수장학금(이공계), 한국장학재단
 - 인문사회 코딩기초(파이썬 프로그래밍) TA (2023.03 ~ 2023.08)
-- 1학기 컴퓨터학부 외국인 유학생 Tutor - 선형대수, 일반 화학, 프로그래밍 기초(C 프로그래밍)
+- 1학기 컴퓨터학부 외국인 유학생 우수 Tutor - 선형대수
 - San Jose State University Workshop(팀 3등 수료)
-- 경북대학교 자연과학대학 수치해석연구실 학부연구생(2023.08 ~ )
-- 2학기 컴퓨터학부 외국인 유학생 Tutor
-- 자연과학 코딩기초(파이썬 프로그래밍) TA (2023.09 ~ )
+- 경북대학교 자연과학대학 수치해석연구실 학부연구생(2023.08 ~ 2024.02)
+- 2학기 컴퓨터학부 외국인 유학생 우수 Tutor -프로그래밍 기초(C, 파이썬 프로그래밍)
+- 자연과학 코딩기초(파이썬 프로그래밍) TA (2023.09 ~ 2023.12)
 - Dream and Design 장학금(구 SAM), Kyungpook Univ(컴퓨터학부 3년 연속 수상 유일)
 
+2024:
+- 인도 LGSI(LG Soft India) 인턴십(2024.01 ~ 02)
+  
 <br><br>
 
 
@@ -65,25 +68,28 @@ Utility :
 Kyungpook National University
 Major: Global Software Convergence (Computer Science Department) & Minor: Mathematics
 
-Total GPA: 4.01/4.3
+Total GPA: 4.02/4.3
 
 2021:
-- SAM Scholarship, Computer Science Department, Kyungpook National University
+- SAM Scholarship, Department of Computer Science, Kyungpook University
 
-2022: 
+2022:
 - ICPC 136th, Korea Internet Preliminary
-- Excellent Award, Hackathon about Daegu, Kyungpook National University
-- SAM Scholarship, Kyungpook National University (sole winner for 2 consecutive years in the Department of Computer Science)
-- Goricon Algorithm Contest Encouragement Award (Intra-university)
-- Donggu Educational Development Scholarship, Donggu Educational Development Scholarship Society
+- Excellent Award, Hackathon about Daegu, Kyungpook University
+- SAM Scholarship, Kyungpook University (sole winner for two consecutive years in the Department of Computer Science)
+- Goricon Algorithm Contest Encouragement Award
+- Donggu Educational Development Scholarship, Donggu Educational Development Scholarship Association
 
 2023:
 - ICPC 134th, Korea Internet Preliminary
 - National Excellence Scholarship (STEM), Korea Scholarship Foundation
-- Teaching Assistant for Introductory Coding (Python Programming) for Humanities and Social Sciences (Mar 2023 ~ Aug 2023)
-- Tutor for Foreign Exchange Students in the Department of Computer Science Department, 1st Semester - Linear Algebra, General Chemistry, Fundamentals of Programming (C Programming)
-- San Jose State University Workshop (Team ranked 3rd, Completion)
-- Undergraduate Researcher in Numerical Analysis Lab, College of Natural Sciences, Kyungpook National University (Since Aug 2023)
-- Tutor for Foreign Exchange Students in the Department of Computer Science Department, 2nd Semester
-- Teaching Assistant for Natural Science Coding Fundamentals (Python Programming) (Sep 2023 ~ )
-- Dream and Design Scholarship, Kyungpook National University (sole winner for 3 consecutive years in the Department of Computer Science)
+- Teaching Assistant for Basic Humanities and Social Sciences Coding (Python Programming) (Mar 2023 - Aug 2023)
+- Outstanding Tutor for International Students in the Computer Science Department for Semester 1 - Linear Algebra
+- San Jose State University Workshop (Team ranked 3rd)
+- Undergraduate Researcher at the Numerical Analysis Research Lab, College of Natural Sciences, Kyungpook University (Aug 2023 - Feb 2024)
+- Outstanding Tutor for International Students in the Computer Science Department for Semester 2 - Basic Programming (C, Python Programming)
+- Teaching Assistant for Basic Natural Sciences Coding (Python Programming) (Sep 2023 - Dec 2023)
+- Dream and Design Scholarship (formerly SAM), Kyungpook University (sole winner for three consecutive years in the Department of Computer Science)
+
+2024:
+- Internship at LGSI (LG Soft India), India (Jan 2024 - Feb 2024)
