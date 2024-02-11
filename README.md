@@ -58,7 +58,7 @@ Utility :
 - Dream and Design 장학금(구 SAM), Kyungpook Univ(컴퓨터학부 3년 연속 수상 유일)
 
 2024:
-- 인도 LGSI(LG Soft India) 인턴십(2024.01 ~ 02)
+- 인도 LGSI(LG Soft India) 인턴십(2024.01 ~ 2024.02)
   
 <br><br>
 
