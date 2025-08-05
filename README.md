@@ -60,7 +60,10 @@ Utility :
 2024:
 - 인도 LGSI(LG Soft India) 인턴십(2024.01 ~ 2024.02)
 - 소프트웨어 마에스트로 우수자 수료(2024.04 ~ 2024.11)
-  
+- 소프트웨어 마에스트로 우수프로젝트
+
+2025:
+- 경북대학교 컴퓨터학부 고성능컴퓨팅연구실 학부연구생(2025.07 ~ )
 <br><br>
 
 
@@ -95,3 +98,7 @@ Total GPA: 4.02/4.3
 2024:
 - Internship at LGSI (LG Soft India), India (Jan 2024 - Feb 2024)
 - SW Maestro, TOP 15 Outstanding Participant(2024.04 ~ 2024.11)
+- SW Maeestro, TOP 9 Outstanding Project
+
+2025
+-  Undergraduate Researcher at the High Performance Computing Lab, Department of Computer Science, Kyungpook University (Jul 2025 -)
