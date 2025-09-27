@@ -64,6 +64,9 @@ Utility :
 
 2025:
 - 경북대학교 컴퓨터학부 고성능컴퓨팅연구실 학부연구생(2025.07 ~ )
+- Korea Business Model Challenge 창의상 수상
+- 빅데이터 기초실습 TA(2025.09 ~ )
+- 2학기 컴퓨터학부 외국인 유학생 Tutor(2025.09 ~ )
 <br><br>
 
 
@@ -102,3 +105,6 @@ Total GPA: 4.02/4.3
 
 2025
 -  Undergraduate Researcher at the High Performance Computing Lab, Department of Computer Science, Kyungpook University (Jul 2025 -)
+-  Korea Business Model Challenge – Creative Award
+-  Teaching Assistant, Big Data Fundamentals (Lab) (Sep 2025 – Present)
+-  International Student Tutor, School of Computer Science (Sep 2025 – Present)
