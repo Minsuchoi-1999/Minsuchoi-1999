@@ -30,81 +30,71 @@ Utility :
 <br><br>
 
 
-# CV(한국어)
+# CV
 
-경북대학교 컴퓨터학부 글로벌소프트웨어융합전공 & 수학과 부전공
+## 🎓 학력
+- 경북대학교 컴퓨터학부 석사과정, 고성능컴퓨팅연구실(2026.03 – )
+- 경북대학교 컴퓨터학부 학사, 글로벌소프트웨어융합전공 / 부전공 수학과(2021.03 – 2026.02)총 학점: 4.02 / 4.3
 
-총 학점: 4.02/4.3
+## 🧪 연구 경험
+- 경북대학교 컴퓨터학부 고성능컴퓨팅연구실 학부연구생(2025.07 – 2026.02)
+- 경북대학교 자연과학대학 수치해석연구실 학부연구생(2023.08 – 2024.02)
 
-2021:
-- SAM 장학금, 경북대학교 컴퓨터학부
+## 👨‍🏫 교육 및 튜터링 경험
+- 컴퓨터학부 외국인 유학생 튜터, 경북대학교(2023.03 – 2023.06, 2023.09 – 2023.12, 2025.09 – 2025.12)
+  **- 2023학년도 1·2학기 연속 우수 튜터 선정**
 
-2022:
-- ICPC 136th, Korea Internet Preliminary
-- 대구를 빛내는 해커톤(Hackathon about Daegu) 우수상, Kyungpook Univ
-- SAM 장학금, Kyungpook Univ(컴퓨터학부 2년 연속 수상 유일)
-- 교내 알고리즘 대회 Goricon 장려상
-- 동구교육발전장학회 장학금, 동구교육발전장학회
+## 🏆 수상 및 장학
 
-2023:
-- ICPC 134th, Korea Internet Preliminary
-- 국가우수장학금(이공계), 한국장학재단
-- 인문사회 코딩기초(파이썬 프로그래밍) TA (2023.03 ~ 2023.08)
-- 1학기 컴퓨터학부 외국인 유학생 우수 Tutor - 선형대수
-- San Jose State University Workshop(팀 3등 수료)
-- 경북대학교 자연과학대학 수치해석연구실 학부연구생(2023.08 ~ 2024.02)
-- 2학기 컴퓨터학부 외국인 유학생 우수 Tutor -프로그래밍 기초(C, 파이썬 프로그래밍)
-- 자연과학 코딩기초(파이썬 프로그래밍) TA (2023.09 ~ 2023.12)
-- Dream and Design 장학금(구 SAM), Kyungpook Univ(컴퓨터학부 3년 연속 수상 유일)
+**- 대한민국 인재상, 교육부 (2025)**
 
-2024:
-- 인도 LGSI(LG Soft India) 인턴십(2024.01 ~ 2024.02)
-- 소프트웨어 마에스트로 우수자 수료(2024.04 ~ 2024.11)
-- 소프트웨어 마에스트로 우수프로젝트
+- Korea Business Model Challenge 창의상, Asia Business Model Competition (ABMC) (2025)
 
-2025:
-- 경북대학교 컴퓨터학부 고성능컴퓨팅연구실 학부연구생(2025.07 ~ )
-- Korea Business Model Challenge 창의상 수상
-- 빅데이터 기초실습 TA(2025.09 ~ )
-- 2학기 컴퓨터학부 외국인 유학생 Tutor(2025.09 ~ )
-<br><br>
+**- 소프트웨어 마에스트로 우수연수생 (TOP 15), 과학기술정보통신부 (2024)**
 
+**- 소프트웨어 마에스트로 우수프로젝트 선정 (TOP 9), 과학기술정보통신부 (2024)**
 
-# CV(English)
+**- 국가우수장학금(이공계), 한국장학재단 (2023)**
 
-Kyungpook National University
-Major: Global Software Convergence (Computer Science Department) & Minor: Mathematics
+**- Dream and Design 장학금 / SAM 장학금, 경북대학교(컴퓨터학부 3년 연속 수상, 2021–2023)**
 
-Total GPA: 4.02/4.3
+## 💼 인턴십
 
-2021:
-- SAM Scholarship, Department of Computer Science, Kyungpook University
+- LG Soft India (LGSI), Software Engineering Intern(2024.01 – 2024.02)
 
-2022:
-- ICPC 136th, Korea Internet Preliminary
-- Excellent Award, Hackathon about Daegu, Kyungpook University
-- SAM Scholarship, Kyungpook University (sole winner for two consecutive years in the Department of Computer Science)
-- Goricon Algorithm Contest Encouragement Award
-- Donggu Educational Development Scholarship, Donggu Educational Development Scholarship Association
+# CV
 
-2023:
-- ICPC 134th, Korea Internet Preliminary
-- National Excellence Scholarship (STEM), Korea Scholarship Foundation
-- Teaching Assistant for Basic Humanities and Social Sciences Coding (Python Programming) (Mar 2023 - Aug 2023)
-- Outstanding Tutor for International Students in the Computer Science Department for Semester 1 - Linear Algebra
-- San Jose State University Workshop (Team ranked 3rd)
-- Undergraduate Researcher at the Numerical Analysis Research Lab, College of Natural Sciences, Kyungpook University (Aug 2023 - Feb 2024)
-- Outstanding Tutor for International Students in the Computer Science Department for Semester 2 - Basic Programming (C, Python Programming)
-- Teaching Assistant for Basic Natural Sciences Coding (Python Programming) (Sep 2023 - Dec 2023)
-- Dream and Design Scholarship (formerly SAM), Kyungpook University (sole winner for three consecutive years in the Department of Computer Science)
+## 🎓 Education
 
-2024:
-- Internship at LGSI (LG Soft India), India (Jan 2024 - Feb 2024)
-- SW Maestro, TOP 15 Outstanding Participant(2024.04 ~ 2024.11)
-- SW Maeestro, TOP 9 Outstanding Project
+- M.S. Student, High Performance Computing LabDepartment of Computer Science, Kyungpook National University(Mar 2026 – Present)
 
-2025
--  Undergraduate Researcher at the High Performance Computing Lab, Department of Computer Science, Kyungpook University (Jul 2025 -)
--  Korea Business Model Challenge – Creative Award
--  Teaching Assistant, Big Data Fundamentals (Lab) (Sep 2025 – Present)
--  International Student Tutor, School of Computer Science (Sep 2025 – Present)
+- B.S. in Computer Science, Global Software Convergence / Minor in MathematicsKyungpook National University(Mar 2021 – Feb 2026)GPA: 4.02 / 4.3
+
+## 🧪 Research Experience
+
+- Undergraduate Researcher, High Performance Computing LabDepartment of Computer Science, Kyungpook National University(Jul 2025 – Feb 2026)
+
+- Undergraduate Researcher, Numerical Analysis Research LabCollege of Natural Sciences, Kyungpook National University(Aug 2023 – Feb 2024)
+
+## 👨‍🏫 Teaching Experience
+
+- International Student Tutor, Department of Computer ScienceKyungpook National University(Mar 2023 – Jun 2023, Sep 2023 – Dec 2023, Sep 2025 – Dec 2025)
+  **- Selected as Outstanding Tutor for consecutive semesters (Spring & Fall 2023)**
+
+## 🏆 Honors & Awards
+
+**- Korea Talent Award, Ministry of Education, Republic of Korea (2025)**
+
+- Creative Award, Korea Business Model Challenge, Asia Business Model Competition (ABMC) (2025)
+
+**- Outstanding Participant, Software Maestro Program (TOP 15), Ministry of Science and ICT (2024)
+
+- Outstanding Project, Software Maestro Program (TOP 9), Ministry of Science and ICT (2024)**
+
+**National Excellence Scholarship (STEM), Korea Scholarship Foundation (2023)
+**
+- Dream and Design Scholarship / SAM Scholarship), Kyungpook National University(recipient for three consecutive years, 2021–2023)
+
+## 💼 Internship
+
+- Software Engineering Intern, LG Soft India (LGSI), India(Jan 2024 – Feb 2024)
