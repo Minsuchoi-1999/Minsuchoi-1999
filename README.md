@@ -42,6 +42,7 @@ Utility :
 
 ## 👨‍🏫 교육 및 튜터링 경험
 - 컴퓨터학부 외국인 유학생 튜터, 경북대학교(2023.03 – 2023.06, 2023.09 – 2023.12, 2025.09 – 2025.12)
+  
   **- 2023학년도 1·2학기 연속 우수 튜터 선정**
 
 ## 🏆 수상 및 장학
@@ -79,6 +80,7 @@ Utility :
 ## 👨‍🏫 Teaching Experience
 
 - International Student Tutor, Department of Computer ScienceKyungpook National University(Mar 2023 – Jun 2023, Sep 2023 – Dec 2023, Sep 2025 – Dec 2025)
+  
   **- Selected as Outstanding Tutor for consecutive semesters (Spring & Fall 2023)**
 
 ## 🏆 Honors & Awards
@@ -87,12 +89,12 @@ Utility :
 
 - Creative Award, Korea Business Model Challenge, Asia Business Model Competition (ABMC) (2025)
 
-**- Outstanding Participant, Software Maestro Program (TOP 15), Ministry of Science and ICT (2024)
+**- Outstanding Participant, Software Maestro Program (TOP 15), Ministry of Science and ICT (2024)**
 
-- Outstanding Project, Software Maestro Program (TOP 9), Ministry of Science and ICT (2024)**
+**- Outstanding Project, Software Maestro Program (TOP 9), Ministry of Science and ICT (2024)**
 
-**National Excellence Scholarship (STEM), Korea Scholarship Foundation (2023)
-**
+**National Excellence Scholarship (STEM), Korea Scholarship Foundation (2023)**
+
 - Dream and Design Scholarship / SAM Scholarship), Kyungpook National University(recipient for three consecutive years, 2021–2023)
 
 ## 💼 Internship
