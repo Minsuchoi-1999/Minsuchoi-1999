@@ -76,7 +76,7 @@ Utility :
 
 - M.S. Student, High Performance Computing Lab, Department of Computer Science, Kyungpook National University(Mar 2026 – Present)
 
-- B.S. in Computer Science, Global Software Convergence / Minor in Mathematics, Kyungpook National University(Mar 2021 – Feb 2026)GPA: 4.02 / 4.3
+- B.S. in Computer Science, Global Software Convergence / Minor in Mathematics, Kyungpook National University(Mar 2021 – Feb 2026), **GPA: 4.02 / 4.3**
 
 ## 🧪 Research Experience
 
