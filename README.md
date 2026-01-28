@@ -41,9 +41,16 @@ Utility :
 - 경북대학교 자연과학대학 수치해석연구실 학부연구생(2023.08 – 2024.02)
 
 ## 👨‍🏫 교육 및 튜터링 경험
-- 컴퓨터학부 외국인 유학생 튜터, 경북대학교(2023.03 – 2023.06, 2023.09 – 2023.12, 2025.09 – 2025.12)
+
+- 빅데이터 기초실습(엑셀, R 프로그래밍) TA, 소프트웨어교육원 (2025.09 ~ 2026.01)
+
+- 외국인 유학생 튜터, 컴퓨터학부(2023.03 – 2023.06, 2023.09 – 2023.12, 2025.09 – 2025.12)
   
   **- 2023학년도 1·2학기 연속 우수 튜터 선정**
+
+- 자연과학 코딩기초(파이썬 프로그래밍) TA, 소프트웨어교육원 (2023.09 ~ 2023.12)
+
+- 인문사회 코딩기초(파이썬 프로그래밍) TA, 소프트웨어교육원 (2023.03 ~ 2023.07)
 
 ## 🏆 수상 및 장학
 
@@ -67,21 +74,28 @@ Utility :
 
 ## 🎓 Education
 
-- M.S. Student, High Performance Computing LabDepartment of Computer Science, Kyungpook National University(Mar 2026 – Present)
+- M.S. Student, High Performance Computing Lab, Department of Computer Science, Kyungpook National University(Mar 2026 – Present)
 
-- B.S. in Computer Science, Global Software Convergence / Minor in MathematicsKyungpook National University(Mar 2021 – Feb 2026)GPA: 4.02 / 4.3
+- B.S. in Computer Science, Global Software Convergence / Minor in Mathematics, Kyungpook National University(Mar 2021 – Feb 2026)GPA: 4.02 / 4.3
 
 ## 🧪 Research Experience
 
-- Undergraduate Researcher, High Performance Computing LabDepartment of Computer Science, Kyungpook National University(Jul 2025 – Feb 2026)
+- Undergraduate Researcher, High Performance Computing Lab, Department of Computer Science, Kyungpook National University(Jul 2025 – Feb 2026)
 
-- Undergraduate Researcher, Numerical Analysis Research LabCollege of Natural Sciences, Kyungpook National University(Aug 2023 – Feb 2024)
+- Undergraduate Researcher, Numerical Analysis Research Lab, College of Natural Sciences, Kyungpook National University(Aug 2023 – Feb 2024)
 
 ## 👨‍🏫 Teaching Experience
 
-- International Student Tutor, Department of Computer ScienceKyungpook National University(Mar 2023 – Jun 2023, Sep 2023 – Dec 2023, Sep 2025 – Dec 2025)
+- Big Data Fundamentals Lab (Excel, R), Software Education Center TA (Sep 2025 – Jan 2026)
+
+- International Student Tutor, Department of Computer Science, Kyungpook National University(Mar 2023 – Jun 2023, Sep 2023 – Dec 2023, Sep 2025 – Dec 2025)
   
   **- Selected as Outstanding Tutor for consecutive semesters (Spring & Fall 2023)**
+
+- Introductory Coding for Natural Sciences (Python), Software Education Center TA (Sep 2023 – Dec 2023)
+  
+- Introductory Coding for Humanities and Social Sciences (Python), Software Education Center TA (Mar 2023 – Jul 2023)
+
 
 ## 🏆 Honors & Awards
 
